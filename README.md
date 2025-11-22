@@ -10,3 +10,6 @@ It is stored in Google Drive and can be accessed here:
 
 [Random Forest Model (RF Model) – Download](https://drive.google.com/file/d/1injUsKgfSuyqdgJjDnnzLq9PO2tebZq2/view?usp=sharing)
 
+#Kaggle Dataset Reference Link
+
+[BudgetWise Personal Finance Dataset](https://www.kaggle.com/datasets/mohammedarfathr/budgetwise-personal-finance-dataset)
